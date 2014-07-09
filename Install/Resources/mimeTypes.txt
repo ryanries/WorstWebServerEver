@@ -1,0 +1,75 @@
+# mimeTypes.txt
+# Worst Web Server Ever
+# Written by Ryan Ries in 2014
+#
+# You can add new MIME types here if you want.
+# 
+# Format: .ext,mediatype/subtype
+# One pair per line. You must include the period in the file extension.
+# A change to this file will require that the service be restarted.
+#
+.asp,text/asp
+.asx,video/x-ms-asf
+.au,audio/basic
+.avi,video/avi
+.bmp,image/bmp
+.bz,application/x-bzip
+.bz2,application/x-bzip2
+.c,text/plain
+.cer,application/x-x509-ca-cert
+.cpp,text/x-c
+.crl,application/pkcs-crl
+.crt,application/pkix-cert
+.css,text/css
+.doc,application/msword
+.dvi,application/x-dvi
+.exe,application/octet-stream
+.gif,image/gif
+.gz,application/x-gzip
+.gzip,application/x-gzip
+.hta,application/hta
+.htm,text/html
+.html,text/html
+.htmls,text/html
+.htt,text/webviewhtml
+.htx,text/html
+.ico,image/x-icon
+.java,text/plain
+.jpe,image/jpeg
+.jpeg,image/jpeg
+.jpg,image/jpeg
+.js,application/x-javascript
+.log,text/plain
+.mov,video/quicktime
+.movie,video/x-sgi-movie
+.mp2,audio/mpeg
+.mp3,audio/mpeg3
+.mpeg,video/mpeg
+.p10,application/pkcs10
+.p12,application/pkcs-12
+.p7a,application/x-pkcs7-signature
+.p7c,application/pkcs7-mime
+.p7m,application/pkcs7-mime
+.p7r,application/x-pkcs7-certreqresp
+.p7s,application/pkcs7-signature
+.pdf,application/pdf
+.png,image/png
+.pps,application/mspowerpoint
+.ppt,application/mspowerpoint
+.qt,video/quicktime
+.rtf,application/rtf
+.tar,application/x-tar
+.text,text/plain
+.tgz,application/x-compressed
+.tif,image/tiff
+.tiff,image/tiff
+.txt,text/plain
+.vsd,application/x-visio
+.vst,application/x-visio
+.vsw,,application/x-visio
+.wav,audio/wav
+.xlm,application/excel
+.xls,application/excel
+.xlt,application/excel
+.xml,text/xml
+.zip,application/zip

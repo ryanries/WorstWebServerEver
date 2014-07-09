@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.1" />
+    </startup>
+    <appSettings>
+		<!-- There is a README to help you figure out how to use this config file! -->
+		<add key="HTTP1" value="http://+:80/;main;index.html" />
+		<add key="HTTPS1" value="https://+:443/;main;index.html;5e600893eb2e9a5751867ce1830157c0ab6b15f6" />
+    </appSettings>
+</configuration>
